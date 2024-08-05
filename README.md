@@ -1,4 +1,6 @@
 # Portafolio de Prueba
+![ejemploPagina](https://github.com/user-attachments/assets/4bda33b0-a391-4f2c-8e3c-b37502565f99)
+
 
 ## Descripción
 
