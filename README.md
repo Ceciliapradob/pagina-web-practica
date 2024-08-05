@@ -49,13 +49,9 @@ No se necesita ninguna dependencia para acceder a este proyecto. Simplemente clo
 
 Este proyecto es de prueba y cualquier contribución es bienvenida. Si deseas contribuir, por favor crea un *fork* del repositorio, realiza tus cambios y envía un *pull request*.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
 ---
 
-**Nota:** Este portafolio es una página de prueba y solo debe ser utilizado con fines de prueba.
+**Nota:** Este portafolio es una página de prueba y solo ha sido utilizado con fines de prueba.
 
 ---
 
